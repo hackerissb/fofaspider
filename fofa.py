@@ -66,5 +66,5 @@ def cj_c(url):
                             for item in list:
                                 f.write("%s\n" % item)
 if __name__ == '__main__':
-    url='''"asmx?wsdl"'''
+    url='''"6464"'''
     cj_c(url)
